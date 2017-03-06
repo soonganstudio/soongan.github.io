@@ -425,6 +425,8 @@ section h3.section-subheading {
 }
 .soongan-crew img {
   margin: 0 auto;
+  margin: 0 auto;
+  border: 1px solid #333;
 }
 .soongan-crew h4 {
   font-size: 15px;
